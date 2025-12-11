@@ -1,4 +1,4 @@
-# MSCIDS CSC Project: An OpenAQ Data Pipeline
+# AirStream: An OpenAQ Data Pipeline
 
 This repository contains the implementation of a data acquisition and processing pipeline for OpenAQ air quality data. It was developed as part of the "Computer Science Concepts for Data Scientists" (CSC) module at Lucerne University of Applied Sciences and Arts (HSLU).
 
@@ -34,7 +34,7 @@ Follow these steps to set up the local development environment.
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/nilsrechberger/mscids-csc-project.git
+git clone https://github.com/nilsrechberger/AirStream.git
 cd mscids-csc-project
 ```
 
