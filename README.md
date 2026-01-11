@@ -25,7 +25,6 @@ Before running the pipeline, ensure the following dependencies are met:
 
 * **Operating System:** Linux or macOS (Shell scripts require a Unix-like environment).
 * **Python:** Version 3.8 or higher.
-* **System Tools:** `curl` or `wget` (for data fetching) and standard text processing utilities.
 
 ## Installation
 
